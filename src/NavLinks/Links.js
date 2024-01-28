@@ -106,8 +106,8 @@ function Links(){
       </ul>
     </div>
     <div id="copyright-phone">
-    <p><i className="fa-regular fa-copyright"></i> 2023  Ketan Katkar</p>
-  <p><i className="fa-solid fa-phone"></i>8888888888</p>
+    <p><i className="fa-regular fa-copyright"></i> 2024 Monu Pal</p>
+  <p><i className="fa-solid fa-phone"></i>9910867168</p>
   
     </div>
   <div id="footer-aboutus">
