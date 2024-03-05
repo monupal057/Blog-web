@@ -10,7 +10,7 @@ function Home() {
       <div className="Titleimages">
         <div className="bigimage">
           <img
-            src="https://static.toiimg.com/thumb/msid-96546364,imgsize-94840,width-400,resizemode-4/96546364.jpg"
+            src="https://media.istockphoto.com/id/1397678880/photo/closeup-of-a-black-businesswoman-typing-on-a-laptop-keyboard-in-an-office-alone.webp?b=1&s=170667a&w=0&k=20&c=zJWdaevbMthoB7i_NLG0vtyoVo2u-bjBzELrcZiL2iE="
             alt="not found"
           ></img>
         </div>
