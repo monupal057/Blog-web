@@ -384,7 +384,7 @@ const ContextApi=(props)=>{
               id: 50,
               Title: "High-Performance Gaming PCs",
               Category: "technology",
-              image: "https://www.lenovo.com/in/en/wri-tech-blog-images-india/High-performance-desktop-Big-img.jpg",
+              image: "https://img.freepik.com/free-photo/gamer-chair-with-multicolored-neon-lights_52683-99742.jpg?size=626&ext=jpg&ga=GA1.1.789343195.1709564910&semt=ais",
               Description: "High-Performance Gaming PCs are specially designed computers optimized for gaming. They feature powerful processors, high-end graphics cards, and ample RAM to deliver smooth and immersive gaming experiences. Whether for casual gamers or eSports enthusiasts, these PCs provide the performance needed to run the latest games at their best."
             },
             {
@@ -398,7 +398,7 @@ const ContextApi=(props)=>{
               id: 52,
               Title: "Advanced Camera Systems",
               Category: "technology",
-              image: "https://www.passionateinmarketing.com/wp-content/uploads/2023/09/EZVIZ-C1C-B-1-1-768x432.jpg",
+              image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB8m9DYzBNo9x4RskVS_lfaT5oNbWFGmLmIPX8bsQJNQ_yx_s6MmA2TzhdYMQzQaIE5Ic&usqp=CAU",
               Description: "Advanced Camera Systems encompass a range of cutting-edge camera technologies used in photography and surveillance. They include high-resolution sensors, advanced autofocus systems, and image stabilization features. These cameras are used for professional photography, security, and capturing high-quality visuals in various industries."
             },
             {
