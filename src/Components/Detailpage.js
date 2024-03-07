@@ -46,7 +46,7 @@ function Detailpage(){
           <h1>{item.Title}</h1>
           <div className="profile-icons">
 
-            <div className="profile"><i className="fa-regular fa-user"></i> <span>Ketan Katkar</span></div>
+            <div className="profile"><i className="fa-regular fa-user"></i> <span>Monu Pal</span></div>
 
           <div className="pro-mediaicon">
                   <NavLink id="iconlink"><i className="fa-brands fa-square-instagram" to="https://www.instagram.com/"></i></NavLink>
